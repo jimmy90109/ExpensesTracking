@@ -15,10 +15,10 @@
     <td><img src="./ScreenShots/addItem.jpg" width = 150px></td>
   </tr>
   <tr>
-    <td align="center">˙ 初始畫面</td>
-    <td align="center">取消辨識可以重試</td>
-    <td align="center">辨識成功進入主業</td>
-    <td align="center">新增項目<br>(正負分別代表收入和支出)</td>
+    <td align="center">• 初始畫面</td>
+    <td align="center">• 取消辨識可以重試</td>
+    <td align="center">• 辨識成功進入主業</td>
+    <td align="center">• 新增項目<br>(正負分別代表收入和支出)</td>
   </tr>
   <tr>
     <td><img src="./ScreenShots/DatePicker.jpg" width = 150px ></td>
@@ -26,9 +26,9 @@
     <td><img src="./ScreenShots/deleteItem.jpg" width = 150px></td>
   </tr>
   <tr>
-    <td align="center">DatePicker</td>
-    <td align="center">欄位不可為空白</td>
-    <td align="center">點擊項目可以刪除</td>
+    <td align="center">• DatePicker</td>
+    <td align="center">• 欄位不可為空白</td>
+    <td align="center">• 點擊項目可以刪除</td>
   </tr>
 </table>
 
