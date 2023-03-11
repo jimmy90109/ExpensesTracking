@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ExpensesTracking</string>
+    <string name="bioAuth">Bio Authentication</string>
+    <string name="reTry">Retry</string>
+    <string name="newDATA">New Expense Item</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="date">Date:</string>
+    <string name="detail">Detail:</string>
+    <string name="expense">Expense:</string>
+    <string name="noBlank">Any field connot be blank!</string>
+    <string name="noData">( no data )</string>
+</resources>
