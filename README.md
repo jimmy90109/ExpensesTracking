@@ -17,7 +17,7 @@
   <tr>
     <td align="center">• 初始畫面</td>
     <td align="center">• 取消辨識可以重試</td>
-    <td align="center">• 辨識成功進入主業</td>
+    <td align="center">• 辨識成功進入主頁</td>
     <td align="center">• 新增項目<br>(正負分別代表收入和支出)</td>
   </tr>
   <tr>
